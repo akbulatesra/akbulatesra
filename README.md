@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
+    <img src="https://media4.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e4772d3hhuiq4mxzk55ef08uiao3j67aiu1ab1gw2ib&rid=giphy.gif&ct=s" width="300"/>
 </div>
 <br>
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
