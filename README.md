@@ -4,9 +4,7 @@
 <br>
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
 <h2>🧩 A Junior Front-End Developer 🧩 </h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akbulatesra"/>
-</p>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=akbulatesra&row=1"/></p>
 <h4>🏡 I'm living in Istanbul </h4>
 <h4>🤖 I’m currently learning React</h3>
 <h4>📫 How to reach me: https://www.linkedin.com/in/esra-akbulat</h3>
