@@ -23,4 +23,8 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
             alt="react" width="40" height="40" /> </a>
 </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbulatesra&show_icons=true&locale=en&layout=compact&theme=onedark" alt="akbulatesra" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbulatesra&show_icons=true&locale=en&theme=onedark" alt="akbulatesra" /></p>
+
 </div>
