@@ -1,6 +1,6 @@
 <div align=center>
     <img src="https://media4.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif?cid=ecf05e4772d3hhuiq4mxzk55ef08uiao3j67aiu1ab1gw2ib&rid=giphy.gif&ct=s"
-        width="200" />
+        width="150" />
 <br>
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
 <h2>🧩 A Junior Front-End Developer 🧩 </h2>
