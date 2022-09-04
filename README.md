@@ -4,7 +4,6 @@
 <br>
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
 <h2>🧩 A Junior Front-End Developer 🧩 </h2>
-<h4>🏡 I'm living in Istanbul </h4>
 <h4>🤖 I’m currently learning React</h3>
 <h4>📫 How to reach me: https://www.linkedin.com/in/esra-akbulat</h3>
 <h4>💻 Languages and Tools:</h3>
