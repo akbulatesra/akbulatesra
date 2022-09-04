@@ -4,9 +4,6 @@
 <br>
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
 <h2>🧩 A Junior Front-End Developer 🧩 </h2>
-<p align="center"> <a href="https://www.codewars.com/users/akbulatesra/" target="_blank"><img align="center" src="https://www.codewars.com/users/akbulatesra/badges/large" /> </p>
-<br>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbulatesra&row=1&theme=onedark"/></a></p>
 <h4>🏡 I'm living in Istanbul </h4>
 <h4>🤖 I’m currently learning React</h3>
 <h4>📫 How to reach me: https://www.linkedin.com/in/esra-akbulat</h3>
@@ -25,9 +22,11 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
             alt="react" width="40" height="40" /> </a>
 </p>
-    
+<p> I also doing practice in codewars </p>
+<p align="center"> <a href="https://www.codewars.com/users/akbulatesra/" target="_blank"><img align="center" src="https://www.codewars.com/users/akbulatesra/badges/large" /> </p>
+<br>  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbulatesra&show_icons=true&locale=en&layout=compact&theme=onedark" alt="akbulatesra" /></p>
-
+<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbulatesra&show_icons=true&locale=en&theme=onedark" alt="akbulatesra" /></p>
 
 </div>
