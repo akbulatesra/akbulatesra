@@ -5,6 +5,7 @@
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
 <h2>🧩 A Junior Front-End Developer 🧩 </h2>
 <h4>🤖 I’m currently learning React</h3>
+<h4>🧮 I'm a participant at <a href="https://www.re-coded.com/?gclid=Cj0KCQjwmdGYBhDRARIsABmSEeP2cuN1Yv3kraBh4VmaCso82Sz8-Aw5XAEaHN9om7M8v2RFyxnuaEYaAlMcEALw_wcB" target="_blank"> Re:Coded </a> Frontend Web Development Bootcamp and <a href="https://www.patika.dev/tr" target="_blank"> Patika</a> & Iyzico Frontend Practicum </h4>
 <h4>📫 How to reach me: https://www.linkedin.com/in/esra-akbulat</h3>
 <h4>💻 Languages and Tools:</h3>
 <p>
