@@ -3,8 +3,7 @@
         width="150" />
 <br>
 <h1 align=center>Hi there 👋🏻 I'm Esra Akbulat</h1>
-<h2>🧩 A Junior Front-End Developer 🧩 </h2>
-<h4>🧮 I'm a working at <a href="https://klinikya.com/tr-Tr" target="_blank"> Klinikya</a> as a frontend developer and using React for creating websites</h4>
+<h2>🧩 A Front-End Developer 🧩 </h2>
 <h4>📫 How to reach me: https://www.linkedin.com/in/esra-akbulat</h3>
 <h4>💻 Languages and Tools:</h3>
 <p>
